@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-60
+
         int cep;
 
         Scanner cepIn = new Scanner(System.in);
